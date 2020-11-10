@@ -1,0 +1,31 @@
+
+            h1{
+                color:hsl(120, 54%, 9%)
+            }
+
+            p{
+                color:red
+            }
+
+            li{
+                color:brown
+            }
+       
+        
+            img {
+                border: solid;
+            }
+
+            a{
+                border: solid;
+            }
+
+            p{
+                border: solid;
+            }
+
+            .header{
+                background-color:cadetblue;
+                display:flex; 
+                justify-content: space-between;
+            }

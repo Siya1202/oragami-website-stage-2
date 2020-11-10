@@ -1,1 +1,1 @@
-# oragami-website-stage-2
+# oragami-design-website
